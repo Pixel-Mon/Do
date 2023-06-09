@@ -1,0 +1,26 @@
+<!Doctype html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8" />
+        <title>Предсказатели</title>
+        <link rel="stylesheet" href="style.css" />
+        <script src="script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body class="backg">
+        </header>
+        <div class="card-container">
+            <div class="card">
+                <div class="front">
+                    А
+                </div>
+                <div class="back">
+                    В
+                </div>
+        </div>
+</div>
+    </body>
+    <footer>
+
+    </footer>
+</html>
